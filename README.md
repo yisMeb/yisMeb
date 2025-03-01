@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yisMeb&label=Profile%20views&color=0e75b6&style=flat" alt="yisMeb" /> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **NLP**, **LLM**
 
 - 🌱 I’m currently learning **AWS Cloud computing**
 
