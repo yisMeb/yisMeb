@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud computing**
 
-- 📫 How to reach me **yisakm9@gmail.com**
+- 📫 How to reach me **contact@yisakmebrate.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
