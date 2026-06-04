@@ -51,9 +51,12 @@ I hold certifications in AWS Cloud Infrastructure and have extensive experience 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB_(NoSQL)-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 **Infrastructure & Tools**
@@ -67,5 +70,6 @@ I hold certifications in AWS Cloud Infrastructure and have extensive experience 
 ### Current Focus
 ```text
 NLP & LLM Engineering    ████████████████████░░   Building and fine-tuning language pipelines
-Full-Stack Development   ████████████████░░░░░░   End-to-end product development
+Full-Stack Development   ██████████████████████   End-to-end product development
 Cloud Infrastructure     ██████████████████████   AWS Certified | GCP | Azure
+IoT Systems              ████████████████░░░░░░   Cross-platform apps & smart hardware
