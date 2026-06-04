@@ -3,7 +3,7 @@
 </div>
 
 ### About
-I build full-stack systems and language model pipelines — from low-level data processing to production-facing interfaces. My work sits at the intersection of applied NLP and software engineering: designing systems that are both technically sound and genuinely usable.
+I build full-stack systems and language model pipelines from low-level data processing to production-facing interfaces. My work sits at the intersection of applied NLP and software engineering: designing systems that are both technically sound and genuinely usable.
 
 I hold certifications in AWS Cloud Infrastructure and have extensive experience deploying and managing AI workloads at production scale across major cloud platforms, including Google Cloud and Microsoft Azure.
 
